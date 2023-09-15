@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/danielzhang/Downloads/CS Projects/CS415-InfiniteMatrixStarter/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
 				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
 				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
 				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
