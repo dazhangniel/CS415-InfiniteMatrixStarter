@@ -1,0 +1,41 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/healthbar_empty.uasset",
+				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/healthbar_fill.uasset",
+				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HealthWidget.uasset",
+				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Damage_Cue.uasset",
+				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Death_Cue.uasset",
+				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Score.uasset",
+				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/SFX/Emotional_Damage_Sound_Effect.uasset",
+				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/SFX/FAILURE.uasset",
+				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/SFX/I_Will_Send_You_To_Jesus.uasset",
+				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/HealthPack.uasset",
+				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Enemy.uasset",
+				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Projectile.uasset",
+				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/DamageWidget.uasset",
+				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/SFX/HitEnemyCue.uasset",
+				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HitEnemyCue.uasset",
+				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/SFX/What_Kind_of_Game_is_This.uasset",
+				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/SFX/Here_We_Go.uasset",
+				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/SFX/CEO.uasset",
+				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/BeginGame_Cue.uasset",
+				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HealthPack_Cue.uasset",
+				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Emotional_Damage_Sound_Effect.uasset",
+				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/FAILURE.uasset",
+				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/I_Will_Send_You_To_Jesus.uasset",
+				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/SFX/Damage_Cue.uasset",
+				"/Users/danielzhang/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/SFX/Death_Cue.uasset"
+			]
+		}
+	]
+}
